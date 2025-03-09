@@ -1,7 +1,7 @@
 name: Build and Deploy
 
 on:
-  worklow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
